@@ -209,8 +209,8 @@ h2
 
   p
   {
-        width: 80%;
-        font-size: 20px
+        width: 70%;
+    font-size: 40px;
   }
 
   .design-p
@@ -266,8 +266,13 @@ h2
     font-weight: 600;
 }
 
-.footerlink
+.footer-link
 {
-      font-size: 20px;
+      font-size: 40px;
+}
+
+.bottom-container {
+    background-color: #30475e;
+    height: 270px;
 }
 }
