@@ -1,0 +1,184 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  background-color: #eff6f6;
+}
+
+.topcontainer {
+  height: 619px;
+  background-color: #a3d2ca;
+  margin: 0 auto 0 auto;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.5rem;
+  color: #393e46;
+}
+
+h2 {
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 1.5rem;
+  position: relative;
+}
+
+h3 {
+  font-family: 'Patrick Hand SC', cursive;
+  color: #393e46;
+  font-size: 2rem;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  color: #cccccc;
+  width: 5%;
+  border-width: 10px;
+  margin: 80px auto;
+}
+
+p {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  margin: 10 auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 60px auto 60px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #30475e;
+  height: 150px;
+}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ronaldo {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.mountain {
+  position: absolute;
+  right: 25%;
+}
+
+.handwriting {
+  font-family: 'Sacramento', cursive;
+}
+
+.job {
+  margin: 0;
+}
+
+.dp {
+  width: 250px;
+  margin-top: 90px;
+}
+
+.last-hr {
+  margin-top: 110px auto;
+}
+
+.footer-link {
+  color: white;
+  position: relative;
+  top: 50px;
+  text-decoration: none;
+}
+
+
+.last {
+  position: relative;
+  top: 50px;
+}
+
+.design {
+  position: relative;
+  left: 80px;
+}
+
+.fifa {
+  position: relative;
+  left: 290px;
+}
+
+.btn {
+  background: #1C3854;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f24537), color-stop(1, #c62d1f));
+  background: -moz-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background: -ms-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background: -o-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background: -webkit-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background-image: -ms-linear-gradient(top, #1C3854, #3A5480);
+  background-image: -o-linear-gradient(top, #1C3854, #3A5480);
+  background-image: linear-gradient(to bottom, #1C3854, #3A5480);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 11px;
+  font-weight: 400;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  position: relative;
+  top: 38px;
+}
+
+.btn:hover {
+  border: solid #30475E 0px;
+  background: #1966BB;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f24537), color-stop(1, #c62d1f));
+  background: -moz-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background: -ms-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background: -o-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background: -webkit-linear-gradient(center top, #f24537 5%, #c62d1f 100%);
+  background-image: -ms-linear-gradient(top, #1966BB, #1966BB);
+  background-image: -o-linear-gradient(top, #1966BB, #1966BB);
+  background-image: linear-gradient(to bottom, #1966BB, #1966BB);
+  -webkit-border-radius: 21px;
+  -moz-border-radius: 21px;
+  border-radius: 21px;
+  text-decoration: none;
+}
+
+.fifa-int
+{
+    color: #393e46;
+}
